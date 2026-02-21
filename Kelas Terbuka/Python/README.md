@@ -7,3 +7,5 @@ Pada Sesi ini semua materi berupa video akan dijelaskan secara tulisan dan prakt
 Daftar Tutorial Python Kelas Terbuka :
 
 1. [Pertemuan 1 - Pengenalan](https://github.com/naidra68/learn-opsource/tree/main/Kelas%20Terbuka/Python/Pertemuan1)
+2. [Pertemuan 2 - Instalasi](https://github.com/naidra68/learn-opsource/tree/main/Kelas%20Terbuka/Python/Pertemuan1)
+3. [Pertemuan 3 - Alur Kerja Program dan Bytecode](https://github.com/naidra68/learn-opsource/tree/main/Kelas%20Terbuka/Python/Pertemuan3)
