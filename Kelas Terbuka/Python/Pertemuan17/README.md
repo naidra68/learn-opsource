@@ -1,4 +1,4 @@
-# Pertemuan16 - Operasi dan Manipulasi String Part 2 (Python Tutorial)
+# Pertemuan17 - Operasi dan Manipulasi String Part 2 (Python Tutorial)
 
 Kita bisa membuat operator untuk memanipulasi string dalam bentuk method. Semua method ini tersedia pada python.
 
