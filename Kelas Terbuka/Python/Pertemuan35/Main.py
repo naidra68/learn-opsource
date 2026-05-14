@@ -10,7 +10,7 @@ for angka in kumpulan_angka:
 peserta  = ["ucup","otong","dadang","diding","dudung"]
 
 for nama in peserta:
-    print(f"nama = {nama}")
+    print(f"nama {nama}")
 
 # for loop dan range
 
@@ -51,6 +51,5 @@ print(angka_kuadrat)
 print("\n enumerate")
 data_list = ["ucup",1,2,3,"otong"]
 
-for index,data in enumerate(data_list):
+for index, data in enumerate(data):
     print(f"index = {index}, data = {data}")
-
